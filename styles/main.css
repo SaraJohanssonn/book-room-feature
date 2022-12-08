@@ -1,8 +1,12 @@
 body {
     background-color: lightgray;
+
 }
 
 h1 {
-    color: pink;
-    font-size: larger;
+    font-size: 50px;
+    color:  white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+=======
 }
+
